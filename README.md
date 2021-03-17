@@ -30,3 +30,4 @@ for this outcome ![image](https://user-images.githubusercontent.com/78506782/111
 # To get the percentage of the total value.
 #in this case, the percentage of votes for each candidate.
 ![image](https://user-images.githubusercontent.com/78506782/111551231-23a6c000-8756-11eb-83c2-27c51d6f1dc8.png)
+![image](https://user-images.githubusercontent.com/78506782/111553058-fa882e80-8759-11eb-8257-43fa35468155.png)

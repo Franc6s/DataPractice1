@@ -26,3 +26,7 @@ for this outcome ![image](https://user-images.githubusercontent.com/78506782/111
 # To print the total value for each key. 
 #in this case, we print the total number of votes for each candidate.
 ![image](https://user-images.githubusercontent.com/78506782/111549184-256e8480-8752-11eb-8923-78653ead2f9b.png)
+
+# To get the percentage of the total value.
+#in this case, the percentage of votes for each candidate.
+![image](https://user-images.githubusercontent.com/78506782/111551231-23a6c000-8756-11eb-83c2-27c51d6f1dc8.png)

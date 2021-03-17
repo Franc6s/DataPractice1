@@ -20,3 +20,5 @@ for this outcome ![image](https://user-images.githubusercontent.com/78506782/111
 
 # To print the total number of value in a list
 ![image](https://user-images.githubusercontent.com/78506782/111545926-3ff22f00-874d-11eb-863d-c406227deeb3.png)
+
+for this outcome ![image](https://user-images.githubusercontent.com/78506782/111546050-6d3edd00-874d-11eb-8b80-a0a5583accce.png)
